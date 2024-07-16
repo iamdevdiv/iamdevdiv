@@ -37,5 +37,6 @@ Icons by [https://icons8.com](https://icons8.com)
 
 ## 🎮 When I'm AFK:
 
-![YouTube](https://img.shields.io/badge/youtube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=red)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Movies & Shows](https://img.shields.io/badge/movies_&_shows-blue.svg?style=for-the-badge&logo=show)
