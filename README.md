@@ -28,14 +28,14 @@ Icons by [https://icons8.com](https://icons8.com)
 
 </div>
 
-## 🏆 Stats:
+## 🏆 Stats
 
 <div align="center">
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamdevdiv&show_icons=true&count_private=true&theme=dark">
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevdiv&layout=compact&theme=dark">
 </p>
 
-## 🎮 When I'm AFK:
+## 🎮 When I'm AFK
 
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
