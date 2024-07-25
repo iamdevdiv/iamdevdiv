@@ -8,7 +8,7 @@
 [![Message on Telegram](https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/iamdevdiv)
 [![Befriend on Discord](https://img.icons8.com/?size=64&id=2mIgusGquJFz&format=png&color=000000)](https://discord.com/users/791132483159982111)
 [![Reddit profile](https://img.icons8.com/?size=64&id=RxrmFiKvK8TP&format=png&color=000000)](https://www.reddit.com/user/iamdevdiv)
-[![Replit profile](https://img.icons8.com/?size=64&id=FnhiFHcPQyOa&format=png&color=000000)]([https://www.reddit.com/user/iamdevdiv](https://replit.com/@iamdevdiv))
+[![Replit profile](https://img.icons8.com/?size=64&id=FnhiFHcPQyOa&format=png&color=000000)](https://replit.com/@iamdevdiv)
 [![Email me](https://img.icons8.com/?size=64&id=xLIkjgcmFOsC&format=png&color=000000)](mailto:divyanshu@iamdevdiv.com)
 
 Icons by [https://icons8.com](https://icons8.com)
