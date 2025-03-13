@@ -3,6 +3,7 @@
 ![Header](introduction.webp)
 
 [![Portfolio website](https://img.icons8.com/?size=64&id=8bVNpI807DcA&format=png&color=000000)](https://www.iamdevdiv.com)
+[![Upwork Profile](https://img.icons8.com/?size=100&id=2y_wcSzVjqiQ&format=png&color=000000)](https://www.upwork.com/freelancers/~019123e1e21dfa4f36)
 [![LinkedIn profile](https://img.icons8.com/?size=64&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/iamdevdiv)
 [![X profile](https://img.icons8.com/?size=64&id=ClbD5JTFM7FA&format=png&color=000000)](https://x.com/iamdevdiv)
 [![Message on Telegram](https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/iamdevdiv)
@@ -15,16 +16,16 @@ Icons by [https://icons8.com](https://icons8.com)
 
 </div>
 
-- 🔭 I’m currently working on an inline-text unit converter and a new student-oriented tool for my website.
+- 🔭 I’m working on client projects, an inline-text unit converter, and a new student-oriented tool for my website.
 - 🌱 I’m currently learning React.
-- ⚡ Fun fact: In addition to gaming and tech, I'm also a pop culture fan. Are you pumped for Deadpool and Wolverine?
+- ⚡ Fun fact: Besides gaming and tech, I'm also a pop culture fan. Are you pumped for The Fantastic Four: First Steps?
 
 
 ## 💻 Skill Set
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,pug,python,selenium,gcp,vscode,pycharm)](https://skillicons.dev)
 
 </div>
 
