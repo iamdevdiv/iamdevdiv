@@ -3,7 +3,7 @@
 ![Header](introduction.webp)
 
 [![Portfolio website](https://img.icons8.com/?size=64&id=8bVNpI807DcA&format=png&color=000000)](https://www.iamdevdiv.com)
-[![Upwork Profile](https://img.icons8.com/?size=100&id=2y_wcSzVjqiQ&format=png&color=000000)](https://www.upwork.com/freelancers/~019123e1e21dfa4f36)
+[![Upwork Profile](https://img.icons8.com/?size=64&id=2y_wcSzVjqiQ&format=png&color=ffffff)](https://www.upwork.com/freelancers/~019123e1e21dfa4f36)
 [![LinkedIn profile](https://img.icons8.com/?size=64&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/iamdevdiv)
 [![X profile](https://img.icons8.com/?size=64&id=ClbD5JTFM7FA&format=png&color=000000)](https://x.com/iamdevdiv)
 [![Message on Telegram](https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/iamdevdiv)
