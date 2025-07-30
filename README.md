@@ -18,7 +18,7 @@ Icons by [https://icons8.com](https://icons8.com)
 
 - 🔭 I’m working on client projects, an inline-text unit converter, and a new student-oriented tool for my website.
 - 🌱 I’m currently learning React.
-- ⚡ Fun fact: Besides gaming and tech, I'm also a pop culture fan. Are you pumped for The Fantastic Four: First Steps?
+- ⚡ Fun fact: Besides gaming and tech, I'm also a pop culture fan. Are you pumped for Spider-Man: Brand New Day?
 
 
 ## 💻 Skill Set
