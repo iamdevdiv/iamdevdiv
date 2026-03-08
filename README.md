@@ -32,8 +32,8 @@ Icons by [https://icons8.com](https://icons8.com)
 ## 🏆 Stats
 
 <div align="center">
-    ![Stats](./profile/stats.svg)
-    ![Top Languages](./profile/top-langs.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 </div>
 
 ## 🎮 When I'm AFK
